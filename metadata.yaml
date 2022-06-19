@@ -1,0 +1,41 @@
+_repo: Capitale-de-la-douleur-Repetitions-Mourir-de-ne-pas-mourir-Les-petits-justes-Nouveaux-poemes_68297
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Éluard, Paul
+    aliases:
+    - Du Haut, Jean
+    - Grindel, Eugène
+    - Éluard, P. (Paul)
+    - Grindel, Paul
+    - Desroches, Didier
+    - Eluard, Paul
+    - Hervent, Maurice
+    - Grindel, Eugene
+    birthdate: 1895
+    deathdate: 1952
+    gutenberg_agent_id: '48891'
+    url: http://www.gutenberg.org/2009/agents/48891
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Paul_%C3%89luard
+    - https://en.wikipedia.org/wiki/Paul_%C3%89luard
+description: ''
+gutenberg_issued: '2022-06-12'
+identifiers:
+  gutenberg: '68297'
+language: fr
+pgterms:marc904: https://catalog.hathitrust.org/Record/001206781
+pgterms:marc905: 20220517091159luard
+pgterms:marc906: '1926'
+pgterms:marc907: FR
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: France :Librairie Gallimard,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Capitale de la douleur: Répétitions; Mourir de ne pas mourir; Les petits justes;
+  Nouveaux poèmes'
+url: http://www.gutenberg.org/ebooks/68297
