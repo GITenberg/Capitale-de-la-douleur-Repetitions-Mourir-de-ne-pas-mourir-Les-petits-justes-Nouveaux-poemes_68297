@@ -1,5 +1,8 @@
 _repo: Capitale-de-la-douleur-Repetitions-Mourir-de-ne-pas-mourir-Les-petits-justes-Nouveaux-poemes_68297
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68297-h/images/capitale_cover.jpg
 creator:
   author:
     agent_name: Éluard, Paul
@@ -20,6 +23,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Paul_%C3%89luard
     - https://en.wikipedia.org/wiki/Paul_%C3%89luard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68297#Capitale-de-la-douleur-Repetitions-Mourir-de-ne-pas-mourir-Les-petits-justes-Nouveaux-poemes
 gutenberg_issued: '2022-06-12'
 identifiers:
   gutenberg: '68297'
